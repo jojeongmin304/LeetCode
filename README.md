@@ -30,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/jojeongmin304/LeetCode/tree/master/0134-gas-station) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/jojeongmin304/LeetCode/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/jojeongmin304/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/jojeongmin304/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
