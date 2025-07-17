@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/jojeongmin304/LeetCode/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/jojeongmin304/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1487-cinema-seat-allocation](https://github.com/jojeongmin304/LeetCode/tree/master/1487-cinema-seat-allocation) |
 | [2012-process-tasks-using-servers](https://github.com/jojeongmin304/LeetCode/tree/master/2012-process-tasks-using-servers) |
 ## Queue
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/jojeongmin304/LeetCode/tree/master/0134-gas-station) |
+| [1487-cinema-seat-allocation](https://github.com/jojeongmin304/LeetCode/tree/master/1487-cinema-seat-allocation) |
 ## Math
 |  |
 | ------- |
@@ -42,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/jojeongmin304/LeetCode/tree/master/0412-fizz-buzz) |
+## Hash Table
+|  |
+| ------- |
+| [1487-cinema-seat-allocation](https://github.com/jojeongmin304/LeetCode/tree/master/1487-cinema-seat-allocation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1487-cinema-seat-allocation](https://github.com/jojeongmin304/LeetCode/tree/master/1487-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
