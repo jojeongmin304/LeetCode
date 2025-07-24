@@ -1,30 +1,25 @@
 class Solution {
 public:
     int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
-        int start = 0;
+
+        int gasSum = 0;
+        int costSum = 0;
+        for (int i = 0; i < gas.size(); i++) {
+            gasSum += gas[i];
+            costSum += cost[i];
+        }
+        if (gasSum < costSum) return -1;
+
         int total = 0;
-
-        int totalGas = 0;
-        int totalCost = 0;
-
+        int startPoint = 0;
         for (int i = 0; i < gas.size(); i++) {
-            totalGas += gas[i];
-            totalCost += cost[i];
-        }
-        if (totalGas < totalCost) return -1;
-
-        for (int i = 0; i < gas.size(); i++) {
-            total += gas[i]; //기름충전
-
-            if (total - cost[i] < 0) {
-                if (i + 1 >= gas.size()) return -1;
-                start = i + 1;
+            total += gas[i];
+            total -= cost[i];
+            if (total < 0) {
                 total = 0;
-            }
-            else {
-                total -= cost[i];
+                startPoint = i + 1;
             }
         }
-        return start;
+        return startPoint;
     }
 };
