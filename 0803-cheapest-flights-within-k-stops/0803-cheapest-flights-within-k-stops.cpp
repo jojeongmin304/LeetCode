@@ -15,6 +15,7 @@ public:
                 dp[i][p[1]] = min(dp[i][p[1]], dp[i-1][p[0]] + p[2]);
             }
         }
-        return dp[k+1][dst] >= kInfCost? -1: dp[k+1][dst];
+        if (dp[k+1][dst] >= kInfCost) return -1;
+        else return dp[k+1][dst];
     }
 };
