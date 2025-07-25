@@ -9,6 +9,7 @@ public:
 
         for (int i = 1; i < k+2; i++) {
             //inherit mininum cost of the step before
+            dp[i][src] = 0;
 
             for (const auto& p : flights) {
                 dp[i][p[1]] = min(dp[i][p[1]], dp[i-1][p[0]] + p[2]);
