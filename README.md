@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jojeongmin304/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/jojeongmin304/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2012-process-tasks-using-servers](https://github.com/jojeongmin304/LeetCode/tree/master/2012-process-tasks-using-servers) |
 ## Monotonic Queue
 |  |
@@ -52,4 +53,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/jojeongmin304/LeetCode/tree/master/1487-cinema-seat-allocation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/jojeongmin304/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Depth-First Search
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/jojeongmin304/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/jojeongmin304/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Graph
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/jojeongmin304/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/jojeongmin304/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
